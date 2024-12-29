@@ -4,7 +4,7 @@ You must have python and Zenmap installed for it to work (If on windows)
 
 If you are on Linux such as ubuntu or Kali it will work just fine.
 
-On both you might have to do "pip install Nmap"
+On both you might have to do windows = "pip install python-nmap"
 
 Use at your will and with the proper permissions
 
