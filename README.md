@@ -6,6 +6,10 @@ If you are on Linux such as ubuntu or Kali it will work just fine.
 
 On both you might have to do windows = "pip install python-nmap"
 
+and you might have to do windows = "pip install Pylance"
+
+If you have issues open it in visual code studio and it will tell you what modules you are missing
+
 Use at your will and with the proper permissions
 
 Have fun:3
